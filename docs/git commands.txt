@@ -17,5 +17,8 @@ $ git log --author="adyliviu"
 $ git status
 $ git add dummyfile.txt
 --not a command -- $ working copy > staging area > repository
+$ cd docs
+$ git commit -a -m "commited all"
+
 
 
