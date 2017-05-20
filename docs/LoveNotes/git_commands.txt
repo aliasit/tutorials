@@ -35,5 +35,5 @@ $ git commit -am "cleaned up the comments"
 $ git checkout -- index.html
 $ git status
 $ git reset HEAD profile.html
-
+github gui desktop
 
