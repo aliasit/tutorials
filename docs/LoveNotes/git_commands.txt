@@ -31,6 +31,6 @@ $ git mv git_commands.txt gitcommands.txt
 $ git mv gitcommands.txt LoveNotes/git_commands.txt
 $ git status
 $ git commit -m "renamed file and put in LoveNotes folder"
-
+$ git commit -am "cleaned up the comments"
 
 
