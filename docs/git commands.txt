@@ -10,4 +10,9 @@ $ cd ..
 $ ls
 $ cd adria
 $ cd /e
+$ git add .
+$ git commit -m "This is out first commit"
+$ git log
+$ git log --author="adyliviu"
+$ git status
 
