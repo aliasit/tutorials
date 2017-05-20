@@ -20,5 +20,8 @@ $ git add dummyfile.txt
 $ cd docs
 $ git commit -a -m "commited all"
 $ git diff --staged
+$ git rm dummyfile.txt
+$ git commit -m "deleted dummy file"^C
+$ git status
 
 
