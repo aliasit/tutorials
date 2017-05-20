@@ -34,5 +34,6 @@ $ git commit -m "renamed file and put in LoveNotes folder"
 $ git commit -am "cleaned up the comments"
 $ git checkout -- index.html
 $ git status
+$ git reset HEAD profile.html
 
 
