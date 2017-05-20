@@ -15,4 +15,7 @@ $ git commit -m "This is out first commit"
 $ git log
 $ git log --author="adyliviu"
 $ git status
+$ git add dummyfile.txt
+--not a command -- $ working copy > staging area > repository
+
 
