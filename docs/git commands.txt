@@ -1,0 +1,13 @@
+$ git config --global user.name "adyliviu"
+$ git init
+$ git config user.email "adyliviu@adyemailserver.local"
+$ git config --list
+$ git help
+$ git help commit
+$ pwd
+$ cd ~
+$ cd ..
+$ ls
+$ cd adria
+$ cd /e
+
